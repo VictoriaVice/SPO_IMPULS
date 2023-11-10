@@ -1,0 +1,98 @@
+.card {
+    border-style: solid;
+    border-radius: 10px;
+    font-size: large;
+    margin: 15px;
+    padding: 20px;
+    max-width: 420px;
+    min-height: 200px;
+    background-color: bisque;
+    border-color: rgb(28, 4, 241)
+
+
+}
+.cont1{
+    border-style: solid;
+    border-radius: 15px;
+    margin: 15px;
+    padding: 23px;
+    font-size: 25px;
+    
+}
+
+main {
+    margin-left: 15px;
+    margin-right: 15px;
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f9ffe6;
+    
+}
+body{
+    background-color: #fcba05;
+}
+
+
+ h1{
+    font-size: 50px;
+    color: rgb(255, 0, 0);   
+  }
+
+  h4{
+    font-size: 22px;
+  }
+
+  h3{
+    font-size: 30px;
+  }
+
+  h2{
+    font-size: 30px;
+ 
+  }
+  ol{
+    font-size: 24px;
+  }
+
+  header {
+    background-color: rgb(249, 253, 0);
+    color: #fc0505;
+    text-align: center;
+    padding: 20px 0;
+}
+.cardcont {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+
+}
+
+.photo1 {
+    background: url(https://sun9-77.userapi.com/impg/ZBseRLdHtotM6Pqr9sKkRK4iQYdFmHr7qcPhCw/idPyOmjof_E.jpg?size=1620x2160&quality=95&sign=bdcacf21b18a9c7ffbba63972ad40595&type=album) center no-repeat;
+    width: 90px;  
+    height: 90px;
+    background-size: cover;
+    border-radius: 50%;
+
+}
+
+.photo2 {
+    background: url(https://sun4-17.userapi.com/impg/RBQwTFSLZ85KlVWVEmF3f3kc1AEA-vjhDmTmjQ/BQxlrl08trY.jpg?size=960x1280&quality=95&sign=a4c9702d63cdd648f532892cc2b19d1f&type=album) center no-repeat;
+    width: 90px;  
+    height: 90px;
+    background-size: cover;
+    border-radius: 50%;
+
+}
+.photo3 {
+    background: url(https://i.pinimg.com/originals/6f/61/5e/6f615e73e5c86f89001b973d1a68c321.jpg) center no-repeat;
+    width: 90px;  
+    height: 90px;
+    background-size: cover;
+    border-radius: 50%;
+
+}
+
